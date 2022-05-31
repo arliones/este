@@ -1,4 +1,4 @@
-# ESTE: GPIO and External Interrupts - part 1
+# ESTE: GPIO and External Interrupts - part 2
 
 This experiment is part of [ESTE Project](https://www.github.com/arliones/este).
 
