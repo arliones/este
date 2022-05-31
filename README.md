@@ -36,20 +36,20 @@ All experiments designed in this project used Atmel AVR microcontrollers. These 
 
 ### Digital Interfaces Experiments
 
-  - [ESTE: General Purpose Input and Output (GPIO)](https://github.com/arliones/este/experiments/gpio/basic);
-  - [ESTE: GPIO and External Interrupts - part 1](https://github.com/arliones/este/experiments/gpio/interrupt1);
-  - [ESTE: GPIO and External Interrupts - part 2](https://github.com/arliones/este/experiments/gpio/interrupt2);
-  - [ESTE: Universal Assynchronous Receiver and Transmitter (UART)](https://github.com/arliones/este/experiments/uart/basic);
-  - [ESTE: UART - Serial Communication](https://github.com/arliones/este/experiments/uart/txrx);
-  - [ESTE: UART - Basic Interrupts](https://github.com/arliones/este/experiments/uart/interrupts);
-  - [ESTE: UART - Interrupts and Circular Buffer](https://github.com/arliones/este/experiments/uart/buffers);
-  - [ESTE: Pulse Width Modulation (PWM)](https://github.com/arliones/este/experiments/pwm/basic);
-  - [ESTE: Dimmer with PWM and ADC](https://github.com/arliones/este/experiments/pwm/dimmer);
-  - [ESTE: Automatic Dimmer with PWM and ADC](https://github.com/arliones/este/experiments/pwm/auto_dimmer);
+  - [ESTE: General Purpose Input and Output (GPIO)](experiments/gpio/basic);
+  - [ESTE: GPIO and External Interrupts - part 1](experiments/gpio/interrupt1);
+  - [ESTE: GPIO and External Interrupts - part 2](experiments/gpio/interrupt2);
+  - [ESTE: Universal Assynchronous Receiver and Transmitter (UART)](experiments/uart/basic);
+  - [ESTE: UART - Serial Communication](experiments/uart/txrx);
+  - [ESTE: UART - Basic Interrupts](experiments/uart/interrupts);
+  - [ESTE: UART - Interrupts and Circular Buffer](experiments/uart/buffers);
+  - [ESTE: Pulse Width Modulation (PWM)](experiments/pwm/basic);
+  - [ESTE: Dimmer with PWM and ADC](experiments/pwm/dimmer);
+  - [ESTE: Automatic Dimmer with PWM and ADC](experiments/pwm/auto_dimmer);
 
 ## Analog Interfaces Experiments
 
-  - [ESTE: Analog-to-Digital Converter (ADC) and Sensor Reading](https://github.com/arliones/este/experiments/adc/basic);
-  - [ESTE: Analog Temperature Sensor 1 (LM35DT - Precision Centigrade Temperature Sensors)](https://github.com/arliones/este/experiments/adc/lm35);
-  - [ESTE: Analog Temperature Sensor 2 (NTC - Negative Temperature Coeficient)](https://github.com/arliones/este/experiments/adc/ntc);
-  - [ESTE: Analog Light Sensor (LDR - Light Dependent Resistor)](https://github.com/arliones/este/experiments/adc/ldr);
+  - [ESTE: Analog-to-Digital Converter (ADC) and Sensor Reading](experiments/adc/basic);
+  - [ESTE: Analog Temperature Sensor 1 (LM35DT - Precision Centigrade Temperature Sensors)](experiments/adc/lm35);
+  - [ESTE: Analog Temperature Sensor 2 (NTC - Negative Temperature Coeficient)](experiments/adc/ntc);
+  - [ESTE: Analog Light Sensor (LDR - Light Dependent Resistor)](experiments/adc/ldr);
